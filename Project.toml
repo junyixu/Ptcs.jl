@@ -1,0 +1,9 @@
+name = "Ptcs"
+uuid = "0f5b2583-be5a-4c88-bc67-efc1ecb5b267"
+authors = ["Junyi Xu <junyixu0@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+OffsetArrays = "6fe1bfb0-de20-5000-8ca7-80f57d26f881"
